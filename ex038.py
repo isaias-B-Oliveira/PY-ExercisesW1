@@ -4,7 +4,6 @@
 # de acordo com o que ele escolher apague os numeros 
 # depois imprima a nova lista
 
-
 numeros = []
 while True:
     num = int(input("Digite um número (ou digite 0 para parar): "))
